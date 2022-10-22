@@ -1,0 +1,1 @@
+{"name":"T-Rex Miner_Config","isFavorite":false,"items":[{"coin":"ERG","pool_ssl":false,"wal_id":7869503,"dpool_ssl":false,"miner":"t-rex","miner_config":{"url":"stratum+tcp://nas02wilde.ddns.net:3056","algo":"autolykos2","worker":"PUT SOME NAME","template":"YOUR WALLET HERE"},"pool_geo":[]}]}
